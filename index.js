@@ -24,3 +24,9 @@ var name, title, num;
 var name = "Harsh";
 name = "Rakesh";
 alert(name);
+
+// Creating variable to store a number
+var num = 5;
+
+// Store string in the variable num
+num = "GeeksforGeeks";
