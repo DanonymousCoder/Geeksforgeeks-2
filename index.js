@@ -13,3 +13,13 @@ function myf() {
      It will not be displayed 
 */
 window.prompt('Multi-line comment');
+
+// Declaring single variable
+var name;
+
+// Declaring multiple variables
+var name, title, num;
+
+// Initializing variables
+var name = "Harsh";
+name = "Rakesh";
