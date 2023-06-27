@@ -1,2 +1,2 @@
-Hi, this is a repository created for me to practice what i'm learning 
+Hi, this is a repository created for me to practice what I'm learning 
 # Geeksforgeeks-2
