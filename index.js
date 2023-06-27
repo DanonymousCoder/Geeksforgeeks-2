@@ -9,4 +9,4 @@ window.alert(naModulo);
 /* This is a multi-line comment.
      It will not be displayed 
 */
-window.prompt('Multi-kine comment')
+window.prompt('Multi-line comment')
