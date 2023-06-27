@@ -47,9 +47,6 @@ var z = 2;
 document.write(a);
 let a = 3;
 
-<h1 id="var" style="color:black;">GeeksforGeeks</h1>
-<h1 id="let" style="color:black;">GeeksforGeeks</h1>
-<button id="btn" onclick="colour()">Start</button>
 	function colour() {
 	
 		setInterval(function() {
