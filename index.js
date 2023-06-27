@@ -5,4 +5,8 @@ y = 4;
 
 //Perform an operation of modulo
 const naModulo = y % x ;
-window.alert(naModulo)
+window.alert(naModulo);
+/* This is a multi-line comment.
+     It will not be displayed 
+*/
+window.prompt('Multi-kine comment')
