@@ -91,4 +91,10 @@ let a = 3;
 		petName +
 		'Fruit name is ' +
 		fruit)
-	
+		function fun(){
+			let num=10;
+			console.log(num);
+		}
+		fun(); // calling the function
+		console.log(num);
+		
