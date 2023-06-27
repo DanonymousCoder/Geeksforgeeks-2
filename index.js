@@ -23,3 +23,4 @@ var name, title, num;
 // Initializing variables
 var name = "Harsh";
 name = "Rakesh";
+alert(name);
