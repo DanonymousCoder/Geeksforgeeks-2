@@ -100,6 +100,6 @@ let a = 3;
 	let r = 2;
 	 {
 		let r = 4;
-		alert(r);
+		window.alert(r);
 	}
-	alert(r);
+	window.alert(r);
