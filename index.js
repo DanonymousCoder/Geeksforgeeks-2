@@ -97,4 +97,8 @@ let a = 3;
 		}
 		fun(); // calling the function
 		console.log(num);
-		
+	let r = 2;
+	 {
+		let r = 4;
+
+	}
